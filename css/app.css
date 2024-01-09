@@ -1,4 +1,5 @@
 body {
     background-image: url("../img/Fapadlo\(hatter\).jpg") !important;
     position: static;
+    background-repeat: no-repeat;
    }
