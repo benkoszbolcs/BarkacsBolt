@@ -4,3 +4,10 @@ body {
     background-repeat: no-repeat;
     background-size:cover ;
    }
+
+nav{
+    font-size: x-large;
+}
+.navbar-brand{
+    font-size: xx-large;
+}
