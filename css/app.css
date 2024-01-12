@@ -13,7 +13,11 @@ body {
 
 nav{
     font-size: x-large;
+    color: #2F1B12 !important;
 }
 .navbar-brand{
     font-size: xx-large;
+}
+footer, a{
+    color: #2F1B12 !important;
 }
