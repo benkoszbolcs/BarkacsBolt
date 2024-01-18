@@ -1,5 +1,5 @@
 body {
-    background-image: url("../img/") !important;
+    background-image: url("../img/hatterkep.jpg") !important;
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7,9 +7,8 @@ body {
 
 .card {
     height: 300px;
-
     background-size:cover;
-   }
+    }
 
 nav{
     font-size: x-large;
@@ -20,13 +19,17 @@ nav{
 }
 footer, a{
     color: #2F1B12 !important;
+    background-color: aliceblue;
+    
 }
 
-p{
-    font-weight: bold;
+p , h1{ 
     line-height: 200%; 
+    color: white;
+    
 }
 
 img{
-    border: solid gray 3px;
+    border: solid white 3px;
 }
+
