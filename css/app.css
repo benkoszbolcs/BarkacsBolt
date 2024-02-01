@@ -33,4 +33,7 @@ img{
     border: solid white 3px;
 }
 
-
+h2{
+    line-height: 200%;
+    color: white;
+}
